@@ -1,8 +1,18 @@
-p {
-    color: blue;
-}
+p { color: blue;}
 table {center;}
 
 form {text-align:center;}
 
 h1 {text-align:center;}
+
+#p1, #title1 {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+
+#p1 {
+    padding: 50px;
+    display: none;
+}
